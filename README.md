@@ -1,0 +1,11 @@
+# Ray-Tracing
+
+## DAY 1
+### 1. Overview
+### 2. Output an Image
+#### 2.1. The PPM Image Format
+#### 2.2. Creating an Image File
+### 3. The vec3 Class
+### 4. Rays, a Simple Camera, and Background
+![image](https://user-images.githubusercontent.com/86725870/172440941-b310efdd-dd2e-4ed4-983c-b9d205a8d929.png)
+
