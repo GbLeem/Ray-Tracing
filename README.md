@@ -5,6 +5,9 @@
 ### 2. Output an Image
 #### 2.1. The PPM Image Format
 #### 2.2. Creating an Image File
+* .ppm 형식을 이용하여 데이터를 시각화 하기
+
+![image](https://user-images.githubusercontent.com/86725870/172625459-aa761851-1355-4f85-932b-1018045c09bc.png)
 ### 3. The vec3 Class
 ### 4. Rays, a Simple Camera, and Background
 ![image](https://user-images.githubusercontent.com/86725870/172440941-b310efdd-dd2e-4ed4-983c-b9d205a8d929.png)
