@@ -14,3 +14,4 @@
 ### 6. Surface Normals and Multiple Normals
 ![image](https://user-images.githubusercontent.com/86725870/172539749-dd5e6e30-3c52-4922-8f7e-fd2294fa046f.png)
 * 빛이 없기 때문에 노말값을 시각화하여 구 형태가 나타나도록 함
+![image](https://user-images.githubusercontent.com/86725870/172609554-cff5ea29-fea8-422d-99cb-1ceeb18e3a1e.png)
