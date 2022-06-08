@@ -19,3 +19,10 @@
 ![image](https://user-images.githubusercontent.com/86725870/172539749-dd5e6e30-3c52-4922-8f7e-fd2294fa046f.png)
 
 ![image](https://user-images.githubusercontent.com/86725870/172609554-cff5ea29-fea8-422d-99cb-1ceeb18e3a1e.png)
+
+### 7. Antialiasing
+* 안티 앨리어싱 이전과 비교하여 가장자리 픽셀의 차이 발생(좀 더 부드러운 곡선이 생성)
+* 각 픽셀 안에 있는 샘플의 묶음을 평균화함으로써 가장자리가 jaggy 한 것을 방지
+
+![image](https://user-images.githubusercontent.com/86725870/172623475-ec45bd65-e99c-417b-9f50-322c6f083767.png)
+
