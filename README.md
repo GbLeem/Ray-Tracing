@@ -48,4 +48,7 @@
 
 ### 9. Metal
 ![image](https://user-images.githubusercontent.com/86725870/173102500-56a23e39-c96c-4d01-a7af-e87494a4becb.png)
+* Fuzzy reflection
+
+![image](https://user-images.githubusercontent.com/86725870/173103720-fe7c0b47-0564-4d82-8f36-b62a6d162a26.png)
 
