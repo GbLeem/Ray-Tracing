@@ -42,3 +42,7 @@
 * true lambertian reflection
 
 ![image](https://user-images.githubusercontent.com/86725870/173006182-9d417e72-ac9c-4414-b184-c18e2ac915f8.png)
+* alternative diffuse formulation
+
+![image](https://user-images.githubusercontent.com/86725870/173007178-3b53a7c9-7f17-4f95-adeb-193acc41d437.png)
+
