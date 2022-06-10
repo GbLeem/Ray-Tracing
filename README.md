@@ -29,7 +29,14 @@
 
 ![image](https://user-images.githubusercontent.com/86725870/172623475-ec45bd65-e99c-417b-9f50-322c6f083767.png)
 
+### 8. Diffuse material
 ![image](https://user-images.githubusercontent.com/86725870/173000934-0a3ee038-4e14-45fc-bc1f-0f859221b7ea.png)
 
+* diffuse with gamma correction
+
 ![image](https://user-images.githubusercontent.com/86725870/173004545-539da6ca-cfbf-4361-b0aa-25b9cb2d923f.png)
+
+* fix shadow acne
+
+![image](https://user-images.githubusercontent.com/86725870/173004951-7fadf950-076b-4f09-b86c-4e1a88f1c59d.png)
 
