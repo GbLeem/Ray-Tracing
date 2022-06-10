@@ -39,4 +39,6 @@
 * fix shadow acne
 
 ![image](https://user-images.githubusercontent.com/86725870/173004951-7fadf950-076b-4f09-b86c-4e1a88f1c59d.png)
+* true lambertian reflection
 
+![image](https://user-images.githubusercontent.com/86725870/173006182-9d417e72-ac9c-4414-b184-c18e2ac915f8.png)
