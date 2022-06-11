@@ -3,8 +3,6 @@
 ## DAY 1
 ### 1. Overview
 ### 2. Output an Image
-#### 2.1. The PPM Image Format
-#### 2.2. Creating an Image File
 * .ppm 형식을 이용하여 데이터를 시각화 하기
 
 ![image](https://user-images.githubusercontent.com/86725870/172625459-aa761851-1355-4f85-932b-1018045c09bc.png)
@@ -67,11 +65,10 @@
 * Wide Angle Camera
 
 ![image](https://user-images.githubusercontent.com/86725870/173176909-3215c2d7-3b0b-459f-8fcb-797e8fccb206.png)
-* Positioning and Orienting the Camera 
- * Distant View
+* Positioning and Orienting the Camera -> Distant View
 
 ![image](https://user-images.githubusercontent.com/86725870/173180204-df53429a-7628-414f-9f62-01c27d3d30f7.png)
- * Zooming View
+ *  Positioning and Orienting the Camera -> Zooming View
   
 ![image](https://user-images.githubusercontent.com/86725870/173180273-bce2cad3-0572-4707-a392-c51a926b194d.png)
 
