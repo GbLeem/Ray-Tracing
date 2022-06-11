@@ -80,3 +80,7 @@
 
 ![image](https://user-images.githubusercontent.com/86725870/173180790-568f2758-3469-4f7b-963c-3a243813af3f.png)
 
+### Final Scene
+* remove half of the small spheres
+
+![image](https://user-images.githubusercontent.com/86725870/173189206-15ba57e3-4d84-4eed-8cad-56b3e4db229f.png)
