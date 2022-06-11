@@ -62,3 +62,8 @@
 * A hollow glass sphere by Schlick Approximation
 
 ![image](https://user-images.githubusercontent.com/86725870/173176607-b2cc3e95-7e3d-478f-9d7f-37710a290c41.png)
+
+### 11. Positionable Camera
+* Wide Angle Camera
+
+![image](https://user-images.githubusercontent.com/86725870/173176909-3215c2d7-3b0b-459f-8fcb-797e8fccb206.png)
