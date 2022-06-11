@@ -59,4 +59,6 @@
 * Total internal refraction -> Glass sphere that sometimes refracts
 
 ![image](https://user-images.githubusercontent.com/86725870/173176349-05328ec0-f80d-4449-ad81-2ce32005916f.png)
+* A hollow glass sphere by Schlick Approximation
 
+![image](https://user-images.githubusercontent.com/86725870/173176607-b2cc3e95-7e3d-478f-9d7f-37710a290c41.png)
