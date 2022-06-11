@@ -52,3 +52,6 @@
 
 ![image](https://user-images.githubusercontent.com/86725870/173103720-fe7c0b47-0564-4d82-8f36-b62a6d162a26.png)
 
+### 10. Dielectrics
+![image](https://user-images.githubusercontent.com/86725870/173176107-8425dd4d-c2c6-4552-b55f-81b9bb7e5564.png)
+
