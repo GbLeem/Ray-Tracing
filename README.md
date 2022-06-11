@@ -75,4 +75,8 @@
   
 ![image](https://user-images.githubusercontent.com/86725870/173180273-bce2cad3-0572-4707-a392-c51a926b194d.png)
 
-   
+### 12. Defocus Blur
+* Spheres with depth-of-field
+
+![image](https://user-images.githubusercontent.com/86725870/173180790-568f2758-3469-4f7b-963c-3a243813af3f.png)
+
