@@ -47,7 +47,7 @@ int main()
 	//world.add(make_shared<sphere>(point3(0, -100.5, -1), 100));
 
 	auto material_ground = make_shared<lambertian>(color(0.8, 0.8, 0.0));
-	auto material_center = make_shared<dielectric>(1.5);
+	auto material_center = make_shared<lambertian>(color(0.1, 0.2, 0.5));
 	auto material_left = make_shared<dielectric>(1.5);
 	auto material_right = make_shared<metal>(color(0.8, 0.6, 0.2), 1.0);
 
@@ -79,7 +79,7 @@ int main()
 			write_color(std::cout, pixel_color, samplers_per_pixel);
 		}
 	}
-	std::cerr << "\nDone - Dielectrics .\n";
+	std::cerr << "\nDone - Glass sphere that sometimes refracts .\n";
 }
 
 
