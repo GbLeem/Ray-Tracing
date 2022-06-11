@@ -68,11 +68,11 @@
 
 ![image](https://user-images.githubusercontent.com/86725870/173176909-3215c2d7-3b0b-459f-8fcb-797e8fccb206.png)
 * Positioning and Orienting the Camera 
-  * Distant View
-  
-![image](https://user-images.githubusercontent.com/86725870/173180204-df53429a-7628-414f-9f62-01c27d3d30f7.png)
-  * Zooming View
+ * Distant View
 
+![image](https://user-images.githubusercontent.com/86725870/173180204-df53429a-7628-414f-9f62-01c27d3d30f7.png)
+ * Zooming View
+  
 ![image](https://user-images.githubusercontent.com/86725870/173180273-bce2cad3-0572-4707-a392-c51a926b194d.png)
 
    
